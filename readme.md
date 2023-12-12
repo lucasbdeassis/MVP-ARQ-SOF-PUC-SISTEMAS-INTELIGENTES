@@ -32,4 +32,4 @@ python3 src/main.py
 
 ## link para o video:
 
-[Video](https://drive.google.com/file/d/1QZ3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1ESblFaLWFMOrlvEO5J9MvxnZeZJ88kfQ/view?usp=sharing)
